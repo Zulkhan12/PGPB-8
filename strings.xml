@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">7</string>
+    <array name="opsi">
+        <item> </item>
+        <item>First Class Ticket</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+    </array>
+</resources>
